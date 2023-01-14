@@ -15,15 +15,24 @@ Greetings, other computer scientists! The time when I first began studying Pytho
 
     If you're looking for a thorough yet straightforward Python course, Real Python is a great choice. This course (because that's basically what this blog is) will teach you the ropes and give you all the tools to get started with Python while also whetting your desire for more via the use of engaging infographics, videos, and an overall fun mood.
 
-6. <a href="">  </a>
-7. <a href="">  </a>
-8. <a href="">  </a>
-9. <a href="">  </a>
-10. <a href="">  </a>
-11. <a href="">  </a>
-12. <a href="">  </a>
-13. <a href="">  </a>
-14. <a href="">  </a>
+5. <a href="http://www.pybloggers.com/"> PyBloggers—the best Python bloggers come together: </a>
+    If you're looking for a thorough yet straightforward Python course, Real Python is a great choice. This course (because that's basically what this blog is) will teach you the ropes and give you all the tools to get started with Python while also whetting your desire for more via the use of engaging infographics, videos, and an overall fun mood.
+    
+6. <a href="https://talkpython.fm/episodes/all"> TalkPython—a Python blog in audio form: </a>
+    Okay, time for a total change of pace. We figured there may be times when you're interested in learning more but can't read a blog article right now, such as when you're in a rush or just too sleepy to concentrate. For this purpose, we can use TalkPython. Like many of the other blogs on this list, this one is also about blogging, but in the form of a podcast! Relax while hearing insightful talks on various Python-related subjects from some of the field's foremost specialists.
+    
+7. <a href="http://pyfound.blogspot.com/"> Python Software Foundation—fresh Python-related content provided by the creators themselves:</a>
+    Of course, looking at the code is your best choice if you want to know precisely what's happening in the Python world. Learn Python as it evolves with in-depth lessons written by the developers themselves and read up on corporate happenings with the Python Software Foundation's official blog.
+    
+8. <a href="http://effbot.org/">Effbot:</a>
+    Effbot is a minimalist early 2000s blog that hosts hundreds of articles on Python and related technologies. You’ll be glad you discovered this expansive resource consisting of overviews, repositories, articles, and some of the best python tutorials covering all proficiency levels and unique user applications. Effbot’s articles offer comprehensive details and cogent explanations of advanced technical problems and strategies. While the content is mostly technical, both summaries and examples alike are clean and organized.
+    
+9. <a href="https://www.pybloggers.com/">PyBloggers:</a>
+    PyBloggers serves as a central meeting place for Python bloggers, readers, and anybody interested in the language to share and discover material. In addition to helping you find interesting new Python articles, thoughts, and tutorials, PyBloggers also provides a global search function so you can find exactly what you're looking for. If you sign up for our newsletter, you'll also get a daily summary of the newest articles, so you can always be up-to-date on the latest Python news.
+
+10. <a href="https://www.python.org/psf-landing/">Python Software Foundation:</a>
+    In terms of ownership of Python's IP, the Python Software Foundation (PSF) is a 501(c)(3) non-profit company. We own and protect the Python trademarks and handle the open source license for Python 2.1 and later. We also administer a grants program and finance occasional special initiatives relating to Python's growth and development, in addition to hosting the annual North American PyCon conference and supporting conferences across the globe that focus on the language.
+--->
 15. <a href="">  </a>
 16. <a href="">  </a>
 17. <a href="">  </a>
@@ -47,4 +56,7 @@ Greetings, other computer scientists! The time when I first began studying Pytho
 35. <a href="">  </a>
 36. <a href="">  </a>
 37. <a href="">  </a>
-38. 
+38. <a href="">  </a>
+39. <a href="">  </a>
+40. <a href="">  </a>
+<---
