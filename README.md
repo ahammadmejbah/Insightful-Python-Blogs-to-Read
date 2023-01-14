@@ -34,31 +34,5 @@ Greetings, other computer scientists! The time when I first began studying Pytho
     In terms of ownership of Python's IP, the Python Software Foundation (PSF) is a 501(c)(3) non-profit company. We own and protect the Python trademarks and handle the open source license for Python 2.1 and later. We also administer a grants program and finance occasional special initiatives relating to Python's growth and development, in addition to hosting the annual North American PyCon conference and supporting conferences across the globe that focus on the language.
 --->
 
-15. <a href="https://thepythonguru.com/"> The Python Guru:</a>
+11. <a href="https://thepythonguru.com/"> The Python Guru:</a>
     DataCamp has graciously provided assistance for this site. DataCamp provides Python Data Science Tutorials that you can follow along with and learn from at your own pace. There are now over a million people in your shoes that are also interested in studying Python for data science.
-17. <a href="">  </a>
-18. <a href="">  </a>
-19. <a href="">  </a>
-20. <a href="">  </a>
-21. <a href="">  </a>
-22. <a href="">  </a>
-23. <a href="">  </a>
-24. <a href="">  </a>
-25. <a href="">  </a>
-26. <a href="">  </a>
-27. <a href="">  </a>
-28. <a href="">  </a>
-29. <a href="">  </a>
-30. <a href="">  </a>
-31. <a href="">  </a>
-32. <a href="">  </a>
-33. <a href="">  </a>
-34. <a href="">  </a>
-35. <a href="">  </a>
-36. <a href="">  </a>
-37. <a href="">  </a>
-38. <a href="">  </a>
-39. <a href="">  </a>
-40. <a href="">  </a>
-41. <a href="">  </a>
-
