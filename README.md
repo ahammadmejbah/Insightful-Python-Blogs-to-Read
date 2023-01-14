@@ -15,7 +15,8 @@ Greetings, other computer scientists! The time when I first began studying Pytho
 
     Full Stack Python is exactly what it claims to be: a comprehensive guide that will help you get your newest Python-based software up and running in no time. Yes, updates are inconsistent, with some months seeing a number of posts and others seeing none at all. However, each new entry is a comprehensive, elegantly presented lesson on one of the several Python-based platforms that will get your project off the ground.
 4. <a href="https://realpython.com/"> Real Python—a comprehensive Python programming blog: </a>
-![image](https://user-images.githubusercontent.com/56669333/212458933-7a1c3a53-6291-4b14-8151-103c00ffe0e9.png)
+![image](https://user-images.githubusercontent.com/56669333/212458977-2d2436f4-8397-46ee-943b-9240e20f34f0.png)
+
 
 
     If you're looking for a thorough yet straightforward Python course, Real Python is a great choice. This course (because that's basically what this blog is) will teach you the ropes and give you all the tools to get started with Python while also whetting your desire for more via the use of engaging infographics, videos, and an overall fun mood.
