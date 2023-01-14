@@ -33,6 +33,7 @@ Greetings, other computer scientists! The time when I first began studying Pytho
 10. <a href="https://www.python.org/psf-landing/">Python Software Foundation:</a>
     In terms of ownership of Python's IP, the Python Software Foundation (PSF) is a 501(c)(3) non-profit company. We own and protect the Python trademarks and handle the open source license for Python 2.1 and later. We also administer a grants program and finance occasional special initiatives relating to Python's growth and development, in addition to hosting the annual North American PyCon conference and supporting conferences across the globe that focus on the language.
 --->
+
 15. <a href="">  </a>
 16. <a href="">  </a>
 17. <a href="">  </a>
@@ -59,4 +60,6 @@ Greetings, other computer scientists! The time when I first began studying Pytho
 38. <a href="">  </a>
 39. <a href="">  </a>
 40. <a href="">  </a>
+
+
 <---
