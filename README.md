@@ -5,9 +5,17 @@ Greetings, other computer scientists! The time when I first began studying Pytho
 ![image](https://user-images.githubusercontent.com/56669333/212458742-54315e95-8b5e-4690-8b08-7793341e4cad.png)
 
     Learn about Python Library: Best platform to Gain practical, real-world Python skills with our library of Python and resources.The Python programming language    allows you to catch exceptions using the try / except construct. But what happens if you nest exception handlers and throw in a break statement too? Your mission in this quiz is to find the answer to that question! 
-3. <a href="">  </a>
-4. <a href="">  </a>
-5. <a href="">  </a>
+2. <a href="https://planetpython.org/"> Planet Python—the go-to Python blog: </a>
+![image](https://user-images.githubusercontent.com/56669333/212458811-7ce7327c-c9b6-423e-a5cd-d62d58c30c3c.png)
+    It's likely that Planet Python will be one of your first stops while researching Python. The reason for this is obvious: its scope is amazing. Planet Python has an exceptional breadth since it aggregates current Python-related blog entries from a wide variety of sources, with new postings appearing several times a day on average. The blog has carefully curated content from reliable sources, giving you access to helpful guides and articles on a wide variety of topics.
+
+3. <a href="https://www.fullstackpython.com/blog.html"> Full Stack Python—a comprehensive resource by multiple Python bloggers: </a>
+![image](https://user-images.githubusercontent.com/56669333/212458854-aff46082-6db6-4105-b335-7c486cc62117.png)
+    Full Stack Python is exactly what it claims to be: a comprehensive guide that will help you get your newest Python-based software up and running in no time. Yes, updates are inconsistent, with some months seeing a number of posts and others seeing none at all. However, each new entry is a comprehensive, elegantly presented lesson on one of the several Python-based platforms that will get your project off the ground.
+4. <a href="https://realpython.com/"> Real Python—a comprehensive Python programming blog: </a>
+![image](https://user-images.githubusercontent.com/56669333/212458886-8eb326f4-5e3e-4286-916d-ed1f0e38de6b.png)
+    If you're looking for a thorough yet straightforward Python course, Real Python is a great choice. This course (because that's basically what this blog is) will teach you the ropes and give you all the tools to get started with Python while also whetting your desire for more via the use of engaging infographics, videos, and an overall fun mood.
+
 6. <a href="">  </a>
 7. <a href="">  </a>
 8. <a href="">  </a>
