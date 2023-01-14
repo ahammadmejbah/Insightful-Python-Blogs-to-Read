@@ -1,4 +1,4 @@
-<center>![image](https://user-images.githubusercontent.com/56669333/212460259-270711fe-9b6e-491e-881a-a2e9f1315ac6.png) </center>
+![image](https://user-images.githubusercontent.com/56669333/212460259-270711fe-9b6e-491e-881a-a2e9f1315ac6.png)
 
 
 <h2><p align="center">Insightful-Python-Blogs-to-Read</p></h2>
