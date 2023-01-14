@@ -61,5 +61,3 @@ Greetings, other computer scientists! The time when I first began studying Pytho
 39. <a href="">  </a>
 40. <a href="">  </a>
 
-
-<---
