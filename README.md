@@ -1,7 +1,9 @@
 <h2><p align="center">Insightful-Python-Blogs-to-Read</p></h2>
 Greetings, other computer scientists! The time when I first began studying Python is still vivid in my mind. Finding fresh Python-related blogs was always a priority of mine, but I was only able to locate a small number. One of the motivations for starting this blog is to share my thoughts on this very topic. help other programmers by sharing what I've learned about Python with them. In this post, I'll offer you ten suggestions for interesting Python-related blogs to subscribe to. What I mean is that they are routinely updated and include relevant data. This is the list, then:
 
-1. <a href="https://www.blog.pythonlibrary.org/"> Python Library Blog </a>
+1. <a href="https://www.blog.pythonlibrary.org/"> Python Library Blog: </a>
+![image](https://user-images.githubusercontent.com/56669333/212458742-54315e95-8b5e-4690-8b08-7793341e4cad.png)
+
     Learn about Python Library: Best platform to Gain practical, real-world Python skills with our library of Python and resources.The Python programming language    allows you to catch exceptions using the try / except construct. But what happens if you nest exception handlers and throw in a break statement too? Your mission in this quiz is to find the answer to that question! 
 3. <a href="">  </a>
 4. <a href="">  </a>
